@@ -3,7 +3,7 @@
 
 ![](https://raw.githubusercontent.com/BBC-Data-Unit/bulky-waste/master/Average%20cost%20of%20bulky%20waste%20collection%20Eng%20R.PNG)
 
-In January 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-46364689) on the postcode lottery when it comes to council charges to collect unwanted furniture and other large waste items.
+In January 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-46364689) on the postcode lottery of council charges to collect unwanted furniture and other large waste items.
 
 Data was gathered and analysed from 391 councils across England, Wales, Scotland and Northern Ireland and we found:
 
