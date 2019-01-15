@@ -25,6 +25,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Yorkshire Evening Post : [How bulky waste charges in Leeds and Wakefield compare to Yorkshire and UK fees](https://www.yorkshireeveningpost.co.uk/news/politics/how-bulky-waste-charges-in-leeds-and-wakefield-compare-to-yorkshire-and-uk-fees-1-9529197) *9 January 2018*
 
+* Kensington Chelsea and Westminster Today : [UK Councils set to raise waste collection costs](http://www.kcwtoday.co.uk/2019/01/uk-councils-set-raise-waste-collection-costs/) *9 January 2018*
+
 * The Scotsman : [Scottish households face ‘confusing’ postcode lottery for bulky uplifts](https://www.scotsman.com/news/politics/scottish-households-face-confusing-postcode-lottery-for-bulky-uplifts-1-4854250) *10 January 2018*
 
 * The Bolton News : [Bolton Council's bulky waste collection third highest fees](https://www.theboltonnews.co.uk/news/17346297.bolton-councils-bulky-waste-collection-third-highest-fees/) *10 January 2018*
@@ -53,6 +55,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Northamptonshire Telegraph : [Corby’s bulky waste service one of cheapest in England...so why are people fly-tipping?](https://www.northantstelegraph.co.uk/news/corby-s-bulky-waste-service-one-of-cheapest-in-england-so-why-are-people-fly-tipping-1-8764460) *10 January 2018*
 
+* Kidderminster Shuttle : [Cost of bulky waste collection in Wyre Forest among highest in region](https://www.kidderminstershuttle.co.uk/news/17345931.cost-of-bulky-waste-collection-in-wyre-forest-among-highest-in-region/) *10 January 2018*
+
 * Redditch Advertiser : [Bulk collection charges for Redditch residents are among the lowest in the West Midlands](https://www.redditchadvertiser.co.uk/news/17346013.bulk-collection-charges-for-redditch-residents-are-among-the-lowest-in-the-west-midlands/) *11 January 2018*
 
 * Swindon Advertiser : [How much does it cost to have a sofa or fridge collected in Swindon?](https://www.swindonadvertiser.co.uk/news/17349727.how-much-does-it-cost-to-have-a-sofa-or-fridge-collected-in-swindon/) *11 January 2018*
@@ -66,6 +70,12 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Lancashire Telegraph: [Northumberland revealed as the highest in postcode lottery of bulky waste collection charges](https://www.lancashiretelegraph.co.uk/news/17350848.hyndburn-bucking-the-trend-over-bulky-waste-collection-charges/) *11 January 2018*
 
 * Northumberland Gazette : [Northumberland has highest bulky-waste charge in the North East](https://www.northumberlandgazette.co.uk/news/northumberland-has-highest-bulky-waste-charge-in-the-north-east-1-9531752) *11 January 2018*
+
+* Eagle Radio : [Waverley most expensive for bulky waste collections in england/](https://www.eagleradio.co.uk/news/local-news/2780390/waverley-most-expensive-for-bulky-waste-collections-in-england/) *11 January 2018*
+
+* Northampton Chronicle and Echo : [Northampton's bulky waste service is the dearest in the county](https://www.northamptonchron.co.uk/news/northampton-s-bulky-waste-service-is-the-dearest-in-the-county-1-8767082) *11 January 2018*
+
+* Worcester News : [Bulky waste collection costs in Worcester revealed](https://www.worcesternews.co.uk/news/17357929.bulky-waste-collection-costs-in-worcester-revealed/) *15 January 2018* 
 
 
 Non partner coverage:
