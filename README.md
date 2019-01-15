@@ -31,6 +31,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * The Bolton News : [Bolton Council's bulky waste collection third highest fees](https://www.theboltonnews.co.uk/news/17346297.bolton-councils-bulky-waste-collection-third-highest-fees/) *10 January 2018*
 
+* Blackpool Gazette : [Postcode lottery for bin services](https://www.blackpoolgazette.co.uk/news/postcode-lottery-for-bin-services-1-9529394) *10 January 2018*
+
+
 * Wigan Today : [Postcode lottery of bulky waste collection charges revealed](https://www.wigantoday.net/news/environment/postcode-lottery-of-bulky-waste-collection-charges-revealed-1-9529510) *10 January 2018*
 
 * Bury Times : [Bury Council's bulky waste charge is second highest in area](https://www.burytimes.co.uk/news/17346458.bury-councils-bulky-waste-charge-is-second-highest-in-area/) *10 January 2018*
@@ -83,6 +86,8 @@ Non partner coverage:
 * CIWM Journal Online: [Data Highlights Bulky Waste Collection Charge Disparity](https://ciwm-journal.co.uk/data-highlights-bulky-waste-collection-charge-disparity/) *10 January 2018*
 
 * Gateshead Council: [Bulky waste collections cheapest in the UK](https://www.gateshead.gov.uk/article/10736/Bulky-waste-collections-cheapest-in-the-UK) *11 January 2018*
+
+* Richmondshire Today : [Richmondshire District Council one of the most expensive for bulky waste collections](http://www.richmondshiretoday.co.uk/richmondshire-district-council-charging-50-fridge-collections/) *15 January 2018* 
 
 
 The story was also used by the BBC News Northern Ireland, BBC News Wales, BBC Newcastle, BBC Surrey, BBC Berkshire, BBC Tees, BBC Shropshire and Lincolnshire and BBC Hereford & Worcester.
