@@ -90,7 +90,7 @@ Non partner coverage:
 * Richmondshire Today : [Richmondshire District Council one of the most expensive for bulky waste collections](http://www.richmondshiretoday.co.uk/richmondshire-district-council-charging-50-fridge-collections/) *15 January 2018* 
 
 
-The story was also used by the BBC News Northern Ireland, BBC News Wales, BBC Newcastle, BBC Surrey, BBC Berkshire, BBC Tees, BBC Shropshire and Lincolnshire and BBC Hereford & Worcester.
+The story was also used by the BBC News Northern Ireland, BBC News Wales, BBC Newcastle, BBC Surrey, BBC Berkshire, BBC Tees, BBC Shropshire, BBC Radio Lincolnshire and BBC Hereford & Worcester.
 
 
 ## Get the data
